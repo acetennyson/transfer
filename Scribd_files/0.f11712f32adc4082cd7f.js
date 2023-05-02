@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[0],{120:function(n,o,i){(function(n){("undefined"!=typeof window?window:void 0!==n?n:"undefined"!=typeof self?self:{}).SENTRY_RELEASE={id:"3573d3126811180f9adc7a471784237fa4842a11"}}).call(this,i(221))},221:function(n,o){var i;i=function(){return this}();try{i=i||new Function("return this")()}catch(n){"object"==typeof window&&(i=window)}n.exports=i}}]);
-//# sourceMappingURL=https://www.scribd.com/webpack/monolith/0.f11712f32adc4082cd7f.js.map
